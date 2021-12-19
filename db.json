@@ -1,1 +1,28 @@
-{}
+{
+  "events": [
+    {
+      "id": 101,
+      "title": "Event I",
+      "description": "Short description of Event I",
+      "location": "Zone 2",
+      "date": "December 24, 2021",
+      "time": "12:00 PM"
+    },
+    {
+      "id": 102,
+      "title": "Event II",
+      "description": "Short description of Event II",
+      "location": "Zone 4",
+      "date": "December 24, 2021",
+      "time": "12:00 PM"
+    },
+    {
+      "id": 103,
+      "title": "Event III",
+      "description": "Short description of Event III",
+      "location": "Zone 6",
+      "date": "December 24, 2021",
+      "time": "12:00 PM"
+    }
+  ]
+}
