@@ -2,27 +2,36 @@
   "events": [
     {
       "id": 101,
-      "title": "Event I",
-      "description": "Short description of Event I",
-      "location": "Zone 2",
-      "date": "December 24, 2021",
-      "time": "12:00 PM"
+      "category": "rescue",
+      "title": "Animal Rescue",
+      "description": "Save helpless animals today.",
+      "location": "Seaside",
+      "date": "June 27, 2024",
+      "time": "12:00 PM",
+      "petsAllowed": false,
+      "organizer": "TW"
     },
     {
       "id": 102,
-      "title": "Event II",
-      "description": "Short description of Event II",
-      "location": "Zone 4",
-      "date": "December 24, 2021",
-      "time": "12:00 PM"
+      "category": "food",
+      "title": "Potluck",
+      "description": "Bring food and feed the community.",
+      "location": "Seaside",
+      "date": "June 28, 2024",
+      "time": "4:00 PM",
+      "petsAllowed": true,
+      "organizer": "TW"
     },
     {
       "id": 103,
-      "title": "Event III",
-      "description": "Short description of Event III",
-      "location": "Zone 6",
-      "date": "December 24, 2021",
-      "time": "12:00 PM"
+      "category": "food",
+      "title": "Piefest",
+      "description": "Make and bake pies.",
+      "location": "Seaside",
+      "date": "June 29, 2024",
+      "time": "6:00 PM",
+      "petsAllowed": true,
+      "organizer": "TW"
     }
   ]
 }
