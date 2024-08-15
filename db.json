@@ -6,7 +6,7 @@
       "title": "Animal Rescue",
       "description": "Save helpless animals today.",
       "location": "Seaside",
-      "date": "June 27, 2024",
+      "date": "June 28, 2024",
       "time": "12:00 PM",
       "petsAllowed": false,
       "organizer": "TW"
@@ -17,7 +17,7 @@
       "title": "Potluck",
       "description": "Bring food and feed the community.",
       "location": "Seaside",
-      "date": "June 28, 2024",
+      "date": "June 29, 2024",
       "time": "4:00 PM",
       "petsAllowed": true,
       "organizer": "TW"
@@ -28,9 +28,42 @@
       "title": "Piefest",
       "description": "Make and bake pies.",
       "location": "Seaside",
-      "date": "June 29, 2024",
+      "date": "June 30, 2024",
       "time": "6:00 PM",
       "petsAllowed": true,
+      "organizer": "TW"
+    },
+    {
+      "id": 104,
+      "category": "cleanup",
+      "title": "Taking Trash",
+      "description": "Clean up trash on the ground.",
+      "location": "Village",
+      "date": "July 5, 2024",
+      "time": "2:00 PM",
+      "petsAllowed": false,
+      "organizer": "TW"
+    },
+    {
+      "id": 105,
+      "category": "art",
+      "title": "Arts & Crafts",
+      "description": "Decorate the town hall fence.",
+      "location": "Village",
+      "date": "July 6, 2024",
+      "time": "3:00 PM",
+      "petsAllowed": true,
+      "organizer": "TW"
+    },
+    {
+      "id": 106,
+      "category": "art",
+      "title": "Pretty Painting",
+      "description": "Replace graffiti with a large painting.",
+      "location": "Village",
+      "date": "July 7, 2024",
+      "time": "3:00 PM",
+      "petsAllowed": false,
       "organizer": "TW"
     }
   ]
